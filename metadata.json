@@ -1,0 +1,7 @@
+{
+  "name": "Smart Classroom & Timetable Scheduler",
+  "description": "A unified platform for students, teachers, and administrators to plan, run, and adapt school schedules with zero conflicts, clear communication, and actionable insights, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
