@@ -117,7 +117,7 @@
     return text;
   };
   // ⭐ Gemini Model Instance
-  const genAI = new GoogleGenerativeAI("AIzaSyBdQozrEHmomhhf6So3SCCrWH23jgdxTYc");
+  const genAI = new GoogleGenerativeAI("your API key");
 
   // ⭐ Weekly Schedule Generator
   const generateWeeklySchedule = async () => {
